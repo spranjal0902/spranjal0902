@@ -1,7 +1,7 @@
 - 👋 Hi, I’m spranjal kulkarni
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning DSA with java, mySQL
-- 💞️ I’m looking to collaborate on projects related to web development 
+- 👀 I’m interested in data science 
+- 🌱 I’m currently learning DSA with java, deep learning, NLP
+- 💞️ I’m looking to collaborate on projects related to ML and data science 
 - 📫 How to reach me kspranjal30@gmail.com
 
 <!---
